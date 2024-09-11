@@ -1,0 +1,6 @@
+Welcome to full stack course second lecture
+this time we read/write/delete files
+
+Happy coding!
+
+//osku

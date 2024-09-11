@@ -1,0 +1,4 @@
+Hello there!
+This content is from another file called file_2.txt.
+
+Goodbye!
